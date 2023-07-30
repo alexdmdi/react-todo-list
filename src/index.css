@@ -1,0 +1,14 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  /* background-color: rgb(23, 29, 61); */
+
+  background: linear-gradient(-45deg, #343694, #01212c, #4b136b);
+  background-size: 100%;
+  animation: gradient 15s ease infinite;
+  height: 100vh;
+
+}
+
+
